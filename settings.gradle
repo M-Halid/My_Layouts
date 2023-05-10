@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "My_Layouts"
 include ':app'
 include ':my_layouts2'
+include ':excercise_of_layouts'

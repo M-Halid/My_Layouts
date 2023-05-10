@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/excercise_of_layouts" />
             <option value="$PROJECT_DIR$/my_layouts2" />
           </set>
         </option>
